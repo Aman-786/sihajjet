@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888247091984",
+    "project_id": "siheducation",
+    "storage_bucket": "siheducation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888247091984:android:0e7f19da1dd6e715801b95",
+        "android_client_info": {
+          "package_name": "com.example.rural_education"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHjDohqind6JYBa7OTekGXd3Mrg2Srgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
